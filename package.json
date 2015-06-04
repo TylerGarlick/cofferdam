@@ -1,0 +1,44 @@
+{
+  "name": "cofferdam",
+  "version": "0.0.1",
+  "description": "Azure DocumentDB library to ease development with DocumentDB",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.27",
+    "chai": "^3.0.0",
+    "documentdb": "^1.0.2",
+    "lazy.js": "^0.4.0"
+  },
+  "devDependencies": {
+    "assert-plus": "^0.1.5",
+    "chai": "^3.0.0",
+    "mocha": "^2.2.5"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://TylerGarlick@github.com/TylerGarlick/cofferdam.git"
+  },
+  "keywords": [
+    "database",
+    "azure",
+    "nosql",
+    "cloud",
+    "document",
+    "database",
+    "documentdb",
+    "helpers",
+    "utilities"
+  ],
+  "author": "Tyler Garlick <tjgarlick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TylerGarlick/cofferdam/issues"
+  },
+  "homepage": "https://github.com/TylerGarlick/cofferdam#readme"
+}
