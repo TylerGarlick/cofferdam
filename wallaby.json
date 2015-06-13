@@ -1,0 +1,18 @@
+{
+  "files": [
+    "lib/**/*.js",
+    "index.js"
+  ],
+  "tests": [
+    "test/**/*.js"
+  ],
+  "env": {
+    "type": "node",
+    "runner": "/Users/tylergarlick/.nvm/versions/io.js/v2.2.1/bin/node",
+
+    "params": {
+      "runner": "--es_staging --harmony_arrow_functions --harmony_proxies --harmony_rest_parameters",
+      "env": "COFFERDAM_DOCUMENTDB_URI=https://iops.documents.azure.com:443/;COFFERDAM_DOCUMENTDB_KEY=r+2uyHUevJHiRl/cY39KM73LBYZPYD47RvoMxepe6OU9239yZ75oDthYMFLIbIC6j1QdseJgMf6vHPNf8dJb+A==;COFFERDAM_DOCUMENTDB_DB=cofferdam-tests;="
+    }
+  }
+}

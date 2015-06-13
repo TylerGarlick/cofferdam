@@ -1,6 +1,5 @@
 'use strict';
 
-global.should = require('chai').should();
 global.expect = require('chai').expect;
 
 global.uri = process.env.COFFERDAM_DOCUMENTDB_URI = process.env.COFFERDAM_DOCUMENTDB_URI || '';
