@@ -1,0 +1,63 @@
+{
+  "coverage": "0%",
+  "expectCount": 38,
+  "actualCount": 0,
+  "files": {
+    "src/collection.js": {
+      "expectCount": 11,
+      "actualCount": 0,
+      "undocumentLines": [
+        15,
+        9,
+        22,
+        10,
+        17,
+        48,
+        19,
+        39,
+        31,
+        57,
+        63
+      ]
+    },
+    "src/database.js": {
+      "expectCount": 10,
+      "actualCount": 0,
+      "undocumentLines": [
+        14,
+        8,
+        20,
+        16,
+        9,
+        54,
+        39,
+        30,
+        48,
+        63
+      ]
+    },
+    "src/document.js": {
+      "expectCount": 17,
+      "actualCount": 0,
+      "undocumentLines": [
+        22,
+        16,
+        10,
+        24,
+        17,
+        11,
+        83,
+        41,
+        34,
+        51,
+        74,
+        56,
+        61,
+        110,
+        119,
+        92,
+        101
+      ]
+    }
+  }
+}
